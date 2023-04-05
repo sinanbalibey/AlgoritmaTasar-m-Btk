@@ -1,0 +1,15 @@
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\bin\Debug\net6.0\TekMiCiftMi.exe
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\bin\Debug\net6.0\TekMiCiftMi.deps.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\bin\Debug\net6.0\TekMiCiftMi.runtimeconfig.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\bin\Debug\net6.0\TekMiCiftMi.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\bin\Debug\net6.0\TekMiCiftMi.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.AssemblyInfo.cs
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\refint\TekMiCiftMi.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\TekMiCiftMi.genruntimeconfig.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\1.hafta\TekMiCiftMi\TekMiCiftMi\obj\Debug\net6.0\ref\TekMiCiftMi.dll

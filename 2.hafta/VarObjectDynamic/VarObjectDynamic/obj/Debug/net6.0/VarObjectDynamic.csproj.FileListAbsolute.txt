@@ -1,0 +1,15 @@
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\bin\Debug\net6.0\VarObjectDynamic.exe
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\bin\Debug\net6.0\VarObjectDynamic.deps.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\bin\Debug\net6.0\VarObjectDynamic.runtimeconfig.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\bin\Debug\net6.0\VarObjectDynamic.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\bin\Debug\net6.0\VarObjectDynamic.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.AssemblyInfo.cs
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\refint\VarObjectDynamic.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\VarObjectDynamic.genruntimeconfig.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\VarObjectDynamic\VarObjectDynamic\obj\Debug\net6.0\ref\VarObjectDynamic.dll
