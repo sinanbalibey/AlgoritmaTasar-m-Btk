@@ -1,0 +1,15 @@
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\bin\Debug\net6.0\KontrolYapilariSwitch.exe
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\bin\Debug\net6.0\KontrolYapilariSwitch.deps.json
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\bin\Debug\net6.0\KontrolYapilariSwitch.runtimeconfig.json
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\bin\Debug\net6.0\KontrolYapilariSwitch.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\bin\Debug\net6.0\KontrolYapilariSwitch.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.AssemblyInfo.cs
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\refint\KontrolYapilariSwitch.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\KontrolYapilariSwitch.genruntimeconfig.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\2.hafta\KontrolYapilariSwitch\KontrolYapilariSwitch\obj\Debug\net6.0\ref\KontrolYapilariSwitch.dll

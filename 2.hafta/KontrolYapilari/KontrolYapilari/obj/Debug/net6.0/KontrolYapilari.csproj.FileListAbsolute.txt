@@ -1,0 +1,15 @@
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\bin\Debug\net6.0\KontrolYapilari.exe
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\bin\Debug\net6.0\KontrolYapilari.deps.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\bin\Debug\net6.0\KontrolYapilari.runtimeconfig.json
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\bin\Debug\net6.0\KontrolYapilari.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\bin\Debug\net6.0\KontrolYapilari.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.AssemblyInfo.cs
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\refint\KontrolYapilari.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\KontrolYapilari.genruntimeconfig.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarımıBtk\2.hafta\KontrolYapilari\KontrolYapilari\obj\Debug\net6.0\ref\KontrolYapilari.dll

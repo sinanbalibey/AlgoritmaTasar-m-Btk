@@ -1,0 +1,15 @@
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.exe
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.deps.json
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.runtimeconfig.json
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\bin\Debug\net6.0\TemelProgramlama.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.csproj.AssemblyReference.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.AssemblyInfoInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.AssemblyInfo.cs
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\refint\TemelProgramlama.dll
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.pdb
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\TemelProgramlama.genruntimeconfig.cache
+C:\Users\sinan\Desktop\AlgoritmaTasarimiBtk\3.hafta\TemelProgramlama\TemelProgramlama\obj\Debug\net6.0\ref\TemelProgramlama.dll
